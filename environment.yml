@@ -6,3 +6,7 @@ dependencies:
   - bokeh::bokeh
   - pyviz::panel=0.5.1
   - tornado<6  
+channels:
+  - pyviz
+ packages:
+  - jupyter-panel-proxy
